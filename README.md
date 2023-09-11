@@ -54,12 +54,12 @@ diseño visual de material
 
 
 
-     <br/>  
+     
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Andresjf93&&style=flat-square)  
   
 
-<br/>  
+
 <!--
 **andresjf93/andresjf93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
