@@ -37,9 +37,29 @@ diseño visual de material
 
 -  Correo: andresjf93@gmail.com
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresjf93&hide_border=true&layout=compact" align="left" style="width: 90%" />
+
+</td></tr></table>  
+
+<br/>  
 
 ![image](https://github.com/andresjf93/andresjf93/assets/129121808/46f47881-d8e9-4474-9c79-bb2c9ee34577)
-     
+
+
+
+     <br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Andresjf93&&style=flat-square)  
+  
+
+<br/>  
 <!--
 **andresjf93/andresjf93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
