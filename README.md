@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola! 👋, Mi nombre es Andres Farias</h1>
-<h2 align="center">También conocido como Andresjf93 en GitHub</h2>
+<h2 align="center">También conocido como Andresjf en GitHub</h2>
 
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_**.
