@@ -38,7 +38,7 @@ diseño visual de material
 
 <h3 align="left"> 📌 📫 ¡Contáctame! </h3>
 
--  **LinkedIn**:[Andres Farias](www.linkedin.com/in/andjf93)
+-  **LinkedIn**: [Andres Farias](www.linkedin.com/in/andjf93)
 
 -  **Correo**: andresjf93@gmail.com
 
