@@ -7,12 +7,12 @@ Soy un **Programador _Fullstack_**.
 Desde joven me ha interesado el mundo de la programación. 
 Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
 
-## ¿Qué tecnologías uso?
+## Tecnologias que he utilizado
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
 para despegar 🚀 
 Por lo que las principales tecnologías que manejo son: 
 <p>
-  FrontEnd: React | Redux | ReactNative | Tailwind | CSS  <br>
+  FrontEnd: React | Redux | ReactNative | Tailwind | CSS  | Typescript <br>
   BackEnd: Node | Express | JavaScript | Next.js <br>
   Database: PostgreSQL | Sequelize | MySQL
 </p>
