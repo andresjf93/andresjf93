@@ -1,78 +1,99 @@
+# 🌟 Hola, soy **Andrés Farías** 👋  
+## También conocido como **Andresjf** en GitHub 🚀
 
-<h1 align="center">Hola! 👋, Mi nombre es Andres Farias</h1>
-<h2 align="center">También conocido como Andresjf en GitHub</h2>
+---
 
-## ¿Quién soy? 
-Soy un **Desarrollador _Fullstack_**.
- apasionado por crear soluciones eficientes y de calidad utilizando tecnologías modernas.
- Mi camino en la programación comenzó hace varios años y cada proyecto me ha permitido aprender y crecer profesionalmente.
+## 🧐 ¿Quién soy?
+Soy un **Frontend Developer** con experiencia en la creación de interfaces dinámicas y responsivas utilizando **React, Next.js y Tailwind CSS**. Me especializo en el desarrollo de experiencias de usuario optimizadas, interfaces intuitivas y accesibles. Tengo la capacidad de trabajar en equipo y adaptar soluciones visuales a las necesidades del cliente.
 
-## Tecnologias que he utilizado
-En mi carrera he trabajado con una variedad de tecnologías, lo que me ha permitido adaptarme y adquirir habilidades en diferentes entornos.
-Siempre estoy dispuesto a aprender y adoptar nuevas tecnologías que puedan ayudarme a mejorar como desarrollador y aportar valor a los proyectos en los que trabajo. 
-<p>
-  FrontEnd: React | Redux | Tailwind CSS | TypeScript | HTML | CSS <br>
-  BackEnd: Node.js | Express | Next.js | JavaScript <br>
-  Bases de Datos: PostgreSQL | MySQL | Sequelize
-</p>
-Estoy siempre abierto a seguir aprendiendo nuevas herramientas y frameworks que puedan ayudarme a crecer profesionalmente y aportar a los proyectos.
+Mi enfoque está en construir aplicaciones eficientes y escalables, con un fuerte compromiso con las mejores prácticas de desarrollo y la calidad del código.
 
-<table><tr><td valign="top" width="50%">
-  <div align="center">  
-<p >  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> </p>
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 🚀 **Frontend**
+- **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks y Librerías:** React.js, Redux, Next.js
+- **Estilos:** Tailwind CSS, CSS Modules
+- **Herramientas:** Git, GitHub, Figma
+
+### 🗄️ **Backend**
+- **Tecnologías:** Node.js, Express.js, Websockets
+- **Bases de Datos:** PostgreSQL, MySQL, Sequelize
+
+### 🎨 **Diseño y Prototipado**
+- **Herramientas:** Figma, Photoshop, Illustrator
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,tailwind,nodejs,express,mysql,postgres,git,figma,photoshop,illustrator&theme=dark" alt="Tecnologías">
 </div>
-</table>
-</td><td >
 
-Claramente incluyendo **HTML** y **CSS**
-Entre otras herramientas, también tengo conocimiento en **Photoshop**, **Illustrator** y **Figma** para el 
-diseño visual de material
-<table><tr><td valign="top" width="50%">
-  <div align="center">
-    <p>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-      </a>
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-      </a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
-</td></tr></table>
+---
 
-<h3 align="left"> 📌 📫 ¡Contáctame! </h3>
+## 💼 Experiencia Laboral
 
--  **LinkedIn**: [Andres Farias](www.linkedin.com/in/andjf93)
+### **Frontend Developer | Consistent Labs** (Octubre 2023 - Actual)
+- Desarrollo del frontend de proyectos Freelance.
+- Creación de una plataforma prototipo basada en tecnología **blockchain**.
+- Implementación de **componentes personalizados** en React.js y Redux.
+- Comunicación en **tiempo real** mediante Websockets.
+- Diseño de interfaces responsive con **React y Tailwind CSS**.
+- Colaboración en proyectos internacionales utilizando **AI y Blockchain** bajo acuerdos de confidencialidad.
 
--  **Correo**: andresjf93@gmail.com
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 🎓 Formación Académica
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- **Full Stack Developer | Soy Henry Bootcamp** (Mayo 2023 - Agosto 2023)
+- **Ingeniería en Computación | Universidad José Gregorio Hernández** (6to semestre - Inconcluso)
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresjf93&hide_border=true&layout=compact" align="left" style="width: 90%" />
+## 🏆 Proyectos Destacados
 
-</td></tr></table>  
+### **Hyper Events | Proyecto Soy Henry**
+- Plataforma para compra y venta de entradas para eventos.
+- **Tecnologías:** Next.js, Tailwind CSS, Redux.js, JavaScript.
 
-<br/>  
+### **PI Henry Dogs | Proyecto Soy Henry**
+- Aplicación que consume una API externa para mostrar diferentes razas de perros y sus características.
+- **Tecnologías:** React.js, Redux.js, JavaScript.
 
-![image](https://github.com/andresjf93/andresjf93/assets/129121808/46f47881-d8e9-4474-9c79-bb2c9ee34577)
+---
 
+## 📈 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresjf93&layout=compact&theme=tokyonight" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Andresjf93&color=blue" alt="Profile Views">
+</div>
 
+---
 
-     
+## 📫 ¡Contáctame!
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Andresjf93&&style=flat-square)  
-  
+📌 **LinkedIn**: [Andrés Farías](https://www.linkedin.com/in/andjf93)  
+📧 **Correo**: [andresjf93@gmail.com](mailto:andresjf93@gmail.com)  
+🌍 **Portafolio**: [andresjf93.vercel.app](https://andresjf93.vercel.app/)  
 
+---
 
+<div align="center">
+  <img src="https://github.com/andresjf93/andresjf93/assets/129121808/46f47881-d8e9-4474-9c79-bb2c9ee34577" alt="Andrés Farías" width="100%">
+</div>
+
+💡 *Siempre abierto a nuevas oportunidades y colaboraciones.* 😃
 <!--
-**andresjf93/andresjf93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andresjf93/andresjf93** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 -->
