@@ -64,19 +64,16 @@ Mi enfoque está en construir aplicaciones eficientes y escalables, con un fuert
 
 ## 📈 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresjf93&layout=compact&theme=tokyonight" alt="Top Langs">
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Andresjf93&color=blue" alt="Profile Views">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresjf93&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Andresjf93&color=blue" alt="Profile Views"/>
+
 </div>
+
 
 ---
 
