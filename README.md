@@ -66,8 +66,7 @@ Mi enfoque está en construir aplicaciones eficientes y escalables, con un fuert
 <div align="center">
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andresjf93&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Andresjf93&theme=sakura-x&locale=es" alt="GitHub Streak" /></a>
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Andresjf93&theme=sakura-x&locale=es)](https://git.io/streak-stats)
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=Andresjf93&color=blue" alt="Profile Views"/>
